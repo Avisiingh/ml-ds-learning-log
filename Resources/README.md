@@ -7,3 +7,11 @@ This folder contains useful books, courses, and links for learning Data Science 
 - [Statistics](Statistics/)  
 - [Machine Learning](Machine_Learning/)  
 
+ 
+
+I am collecting useful learning materials in the **[Resources](Resources/)** folder.  
+
+- **[Python](Resources/Python/)**  
+- **[Mathematics](Resources/Mathematics/)**  
+- **[Statistics](Resources/Statistics/)**  
+- **[Machine Learning](Resources/Machine_Learning/)** 
