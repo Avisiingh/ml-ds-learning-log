@@ -24,7 +24,7 @@ I update this regularly with new topics, projects, and study materials. This hel
 ##  Daily Learning Log  
 
 You can check my daily progress here:  
- **[Learning_Journal Folder](Learning_Journal/)** 
+ **[Learning Journal Folder](Learning_Journal/)** 
 
 ---
 
