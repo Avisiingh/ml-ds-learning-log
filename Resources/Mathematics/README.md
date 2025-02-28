@@ -9,5 +9,5 @@ Here are some of the best courses I am following to learn Mathematics for Data S
 - **[Youtube - Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)**
   
 ### 📙Book :
-- **[Mathematics for Machine Learning](https://mml-book.github.io/) 
+- **[Mathematics for Machine Learning](https://mml-book.github.io/)**
 
