@@ -2,6 +2,8 @@
 
 This folder contains useful resources for learning Python.  
 
-### 🔹 Learning Materials:  
-- ** 
+###  I'm following these resources while learning Python.:   
+
+- ****[CS50’s Introduction to Python](https://cs50.harvard.edu/python/2022/)**
+  
 
