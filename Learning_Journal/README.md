@@ -11,7 +11,8 @@ I update this regularly to track my progress and stay consistent.
 - Checking number of rows and columns using `.shape`.
 - Getting more info with `df.info()`.
 - Viewing top and bottom rows using `df.head()` and `df.tail()`.
-### Here is my [Notes](Learning_Journal/Notes/Python/Pandas/firstlecture.ipynb/)
+### This is my notes: [firstlecture.ipynb](https://github.com/AvinashKumar/ml-ds-learning-log/blob/main/Learning_Journal/Notes/Python/Pandas/firstlecture.ipynb)
+
 
 
 
