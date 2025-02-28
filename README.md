@@ -14,11 +14,17 @@ When I started learning Data Science, I wanted a way to track my progress and st
 
 - [Notes](Notes/) – My study notes on Python, Math, Statistics, and ML  
 - [Projects](Projects/) – Hands-on projects to apply what I learn  
-- [Resources](Resources/) – Books, courses, and other helpful materials  
+- [Resources](Resources/) – Books, courses, and other helpful materials
+- [Daily Log](Learning_Journal/) – A record of what I learn each day 
 
 ## How I Use This Repo  
 
 I update this regularly with new topics, projects, and study materials. This helps me stay consistent and track my learning journey.  
+
+##  Daily Learning Log  
+
+You can check my daily progress here:  
+ **[Daily Log Folder](Learning_Journal/)** 
 
 ---
 
