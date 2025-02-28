@@ -12,7 +12,7 @@ When I started learning Data Science, I wanted a way to track my progress and st
 
 ## What's Inside?  
 
-- [Notes](Notes/) – My study notes on Python, Math, Statistics, and ML  
+- [Notes](Learning_Journal/Notes/) – My study notes on Python, Math, Statistics, and ML  
 - [Projects](Projects/) – Hands-on projects to apply what I learn  
 - [Resources](Resources/) – Books, courses, and other helpful materials
 - [Learning Journal](Learning_Journal/) – A record of what I learn each day 
