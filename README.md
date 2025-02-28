@@ -1,4 +1,4 @@
-## Hi there! This is my personal learning journal where I document everything I study about Data Science and Machine Learning. I'm keeping track of my notes, projects, and useful resources to stay organized and measure my progress.  
+## This is my personal learning journal where I document everything I study about Data Science and Machine Learning. I'm keeping track of my notes, projects, and useful resources to stay organized and measure my progress.  
 
 ### What’s in this repo?  
 - A step-by-step learning roadmap  
