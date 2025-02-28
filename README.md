@@ -1,2 +1,11 @@
-# ml-ds-learning-log
-My journey of learning Data Science and Machine Learning, documenting my notes, projects, and progress.
+Hi there! This is my personal learning journal where I document everything I study about Data Science and Machine Learning. I'm keeping track of my notes, projects, and useful resources to stay organized and measure my progress.  
+
+### What’s in this repo?  
+- A step-by-step learning roadmap  
+- Notes on Python, Math, Statistics, and ML  
+- Hands-on projects with real data  
+- Useful books, courses, and videos  
+- My daily and weekly learning updates  
+
+### Why I created this  
+When I started learning Data Science, I wanted a way to track my progress and stay consistent. This repository helps me stay organized, see my growth over time, and keep improving.
