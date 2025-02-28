@@ -5,6 +5,7 @@ This folder contains my daily learning logs. Every day, I document what I study,
 I update this regularly to track my progress and stay consistent.  
 
 ## Date: 28-02-2025
+### Python(Pandas) :
 - Learned the basics of Pandas.
 - How to read CSV files using `pd.read_csv()`.
 - Checking number of rows and columns using `.shape`.
