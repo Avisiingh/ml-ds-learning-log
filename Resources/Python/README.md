@@ -1,6 +1,6 @@
 # Python Resources  
 
-## This folder contains useful resources for learning Python.  
+ This folder contains useful resources for learning Python.  
 
 ###  I'm following these resources while learning Python.:   
 
