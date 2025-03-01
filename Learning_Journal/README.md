@@ -13,7 +13,21 @@ I update this regularly to track my progress and stay consistent.
 - Viewing top and bottom rows using `df.head()` and `df.tail()`.
 ### This is my notes: [firstlecture.ipynb](https://github.com/Avisiingh/ml-ds-learning-log/blob/main/Learning_Journal/Notes/Python/Pandas/firstlecture.ipynb)
 
+## Date - 01/03/2025  
 
+#### Linear Algebra (Gilbert Strang)  
+- Studied System of Linear Equations: Row picture & Column picture  
+- Practiced Matrix Multiplication and solved all questions from the book  
+
+####  Python Basics  
+- Learned string methods: strip(), capitalize()  
+- Practiced user input, addition, and multiplication operations
+  
+
+####  Machine Learning (Andrew Ng - Coursera)  
+- Studied Linear Regression and Gradient Descent  
+- Learned how Gradient Descent works and how it reaches the minimum  
+   
 
 
 
