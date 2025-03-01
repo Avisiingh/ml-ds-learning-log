@@ -22,7 +22,7 @@ I update this regularly to track my progress and stay consistent.
 ####  Python Basics  
 - Learned string methods: strip(), capitalize()  
 - Practiced user input, addition, and multiplication operations
-### here is notes [NOtes](https://github.com/Avisiingh/ml-ds-learning-log/blob/main/Learning_Journal/Notes/Python/hello.ipynb)
+### here is notes [Notes](https://github.com/Avisiingh/ml-ds-learning-log/blob/main/Learning_Journal/Notes/Python/hello.ipynb)
   
 
 ####  Machine Learning (Andrew Ng - Coursera)  
