@@ -27,8 +27,8 @@ I update this regularly to track my progress and stay consistent.
 
 ####  Machine Learning (Andrew Ng - Coursera)  
 - Studied Linear Regression and Gradient Descent  
-- Learned how Gradient Descent works and how it reaches the minimum  
-   
+- Learned about the Cost Function and how it measures error in Linear Regression  
+- Understood how Gradient Descent minimizes the Cost Function
 
 
 
