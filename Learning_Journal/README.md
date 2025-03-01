@@ -23,6 +23,11 @@ I update this regularly to track my progress and stay consistent.
 - Learned string methods: strip(), capitalize()  
 - Practiced user input, addition, and multiplication operations
 ### here is notes [Notes](https://github.com/Avisiingh/ml-ds-learning-log/blob/main/Learning_Journal/Notes/Python/hello.ipynb)
+
+#### 📊 Python for Pandas  
+- Learned about DataFrame: how to create and manipulate it  
+- Practiced getting rows and columns using `.loc[]`, `.iloc[]`, `.head()`, `.columns`, `.shape`  
+
   
 
 ####  Machine Learning (Andrew Ng - Coursera)  
