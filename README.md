@@ -26,7 +26,7 @@ I update this regularly with new topics, projects, and study materials. This hel
 You can check my daily progress here:  
   **[Learning Journal](Learning_Journal/)**
 
----
+----
 
 I’ll keep adding more as I learn.  
 
